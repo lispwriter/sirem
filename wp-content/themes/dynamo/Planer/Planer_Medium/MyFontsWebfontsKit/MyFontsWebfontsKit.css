@@ -1,0 +1,27 @@
+/* @license
+ * MyFonts Webfont Build ID 2688248, 2013-11-13T20:48:52-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Planer Medium by The Northern Block
+ * URL: http://www.myfonts.com/fonts/northernblock/planer/medium/
+ * Copyright: Copyright &#x00A9; 2011 by Jonathan Hill. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=2688248
+ * 
+ * © 2013 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/2904f8");
+
+  
+@font-face {font-family: 'Planer-Medium';src: url('webfonts/2904F8_0_0.eot');src: url('webfonts/2904F8_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2904F8_0_0.woff') format('woff'),url('webfonts/2904F8_0_0.ttf') format('truetype');}
+ 
