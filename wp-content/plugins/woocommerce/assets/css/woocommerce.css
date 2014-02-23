@@ -380,6 +380,7 @@ p.demo_store{position:fixed;
 	border-radius: 0;	
 }
 .woocommerce a.button.loading,.woocommerce button.button.loading,.woocommerce input.button.loading,.woocommerce #respond input#submit.loading,.woocommerce #content input.button.loading,.woocommerce-page a.button.loading,.woocommerce-page button.button.loading,.woocommerce-page input.button.loading,.woocommerce-page #respond input#submit.loading,.woocommerce-page #content input.button.loading{
+	background-color: #94918C;	
 	color:#777777;
 	/*border:1px solid #f7f6f7*/}
 .woocommerce a.button.loading:before,.woocommerce button.button.loading:before,.woocommerce input.button.loading:before,.woocommerce #respond input#submit.loading:before,.woocommerce #content input.button.loading:before,.woocommerce-page a.button.loading:before,.woocommerce-page button.button.loading:before,.woocommerce-page input.button.loading:before,.woocommerce-page #respond input#submit.loading:before,.woocommerce-page #content input.button.loading:before{
@@ -400,14 +401,19 @@ p.demo_store{position:fixed;
 	font-family:'Planer-Medium';
 	content:"\e017"}
 .woocommerce a.button:hover,.woocommerce button.button:hover,.woocommerce input.button:hover,.woocommerce #respond input#submit:hover,.woocommerce #content input.button:hover,.woocommerce-page a.button:hover,.woocommerce-page button.button:hover,.woocommerce-page input.button:hover,.woocommerce-page #respond input#submit:hover,.woocommerce-page #content input.button:hover{
+	background-color: #94918C;
 	/*background:#f7f6f7;*/
 	/*background:-webkit-gradient(linear,left top,left bottom,from(#f7f6f7),to(#d3ced3));*/
 	/*background:-webkit-linear-gradient(#f7f6f7,#d3ced3);*/
 	/*background:-moz-linear-gradient(center top,#f7f6f7 0%,#d3ced3 100%);*/
 	/*background:-moz-gradient(center top,#f7f6f7 0%,#d3ced3 100%);*/
 	text-decoration:none}
-.woocommerce a.button:active,.woocommerce button.button:active,.woocommerce input.button:active,.woocommerce #respond input#submit:active,.woocommerce #content input.button:active,.woocommerce-page a.button:active,.woocommerce-page button.button:active,.woocommerce-page input.button:active,.woocommerce-page #respond input#submit:active,.woocommerce-page #content input.button:active{top:1px}
+.woocommerce a.button:active,.woocommerce button.button:active,.woocommerce input.button:active,.woocommerce #respond input#submit:active,.woocommerce #content input.button:active,.woocommerce-page a.button:active,.woocommerce-page button.button:active,.woocommerce-page input.button:active,.woocommerce-page #respond input#submit:active,.woocommerce-page #content input.button:active{
+	background-color: #94918C;
+	top:1px;
+}
 .woocommerce a.button.alt,.woocommerce button.button.alt,.woocommerce input.button.alt,.woocommerce #respond input#submit.alt,.woocommerce #content input.button.alt,.woocommerce-page a.button.alt,.woocommerce-page button.button.alt,.woocommerce-page input.button.alt,.woocommerce-page #respond input#submit.alt,.woocommerce-page #content input.button.alt{
+	background-color: #94918C;
 	/*background:#ad74a2;*/
 	/*background:-webkit-gradient(linear,left top,left bottom,from(#ad74a2),to(#96588a));*/
 	/*background:-webkit-linear-gradient(#ad74a2,#96588a);*/
@@ -418,6 +424,7 @@ p.demo_store{position:fixed;
 	/*text-shadow:0 -1px 0 rgba(0,0,0,0.6)*/
 }
 .woocommerce a.button.alt:hover,.woocommerce button.button.alt:hover,.woocommerce input.button.alt:hover,.woocommerce #respond input#submit.alt:hover,.woocommerce #content input.button.alt:hover,.woocommerce-page a.button.alt:hover,.woocommerce-page button.button.alt:hover,.woocommerce-page input.button.alt:hover,.woocommerce-page #respond input#submit.alt:hover,.woocommerce-page #content input.button.alt:hover{background:#ad74a2;
+	background-color: #94918C;
 	/*background:-webkit-gradient(linear,left top,left bottom,from(#ad74a2),to(#864f7b));*/
 	/*background:-webkit-linear-gradient(#ad74a2,#864f7b);*/
 	/*background:-moz-linear-gradient(center top,#ad74a2 0%,#864f7b 100%);*/
