@@ -344,12 +344,13 @@ p.demo_store{position:fixed;
 	line-height:1em;
 	cursor:pointer;
 	position:relative;
-	font-family:inherit;
+	font-family:Planer-Medium;
+	font-size:14px;
 	text-decoration:none;
 	overflow:visible;
-	padding:6px 10px;
+	/*padding:6px 10px;*/
 	text-decoration:none;
-	font-weight:bold;
+	font-weight:normal;
 	/* -webkit-border-radius:2px; */
 	/* border-radius:2px; */
 	left:auto;
@@ -373,7 +374,8 @@ p.demo_store{position:fixed;
 	padding: 8px 12px 6px 12px; font-size: 14px; font-weight: normal;	
 	border-radius: 0;	
 }
-.woocommerce a.button.loading,.woocommerce button.button.loading,.woocommerce input.button.loading,.woocommerce #respond input#submit.loading,.woocommerce #content input.button.loading,.woocommerce-page a.button.loading,.woocommerce-page button.button.loading,.woocommerce-page input.button.loading,.woocommerce-page #respond input#submit.loading,.woocommerce-page #content input.button.loading{color:#777777;
+.woocommerce a.button.loading,.woocommerce button.button.loading,.woocommerce input.button.loading,.woocommerce #respond input#submit.loading,.woocommerce #content input.button.loading,.woocommerce-page a.button.loading,.woocommerce-page button.button.loading,.woocommerce-page input.button.loading,.woocommerce-page #respond input#submit.loading,.woocommerce-page #content input.button.loading{
+	color:#777777;
 	border:1px solid #f7f6f7}
 .woocommerce a.button.loading:before,.woocommerce button.button.loading:before,.woocommerce input.button.loading:before,.woocommerce #respond input#submit.loading:before,.woocommerce #content input.button.loading:before,.woocommerce-page a.button.loading:before,.woocommerce-page button.button.loading:before,.woocommerce-page input.button.loading:before,.woocommerce-page #respond input#submit.loading:before,.woocommerce-page #content input.button.loading:before{content:"";
 	position:absolute;
