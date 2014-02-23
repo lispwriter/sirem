@@ -350,23 +350,29 @@ p.demo_store{position:fixed;
 	padding:6px 10px;
 	text-decoration:none;
 	font-weight:bold;
-	-webkit-border-radius:2px;
-	border-radius:2px;
+	/* -webkit-border-radius:2px; */
+	/* border-radius:2px; */
 	left:auto;
-	text-shadow:0 1px 0 #ffffff;
-	color:#5e5e5e;
+	/* text-shadow:0 1px 0 #ffffff; */
+	color:#FFFFFF;
 	text-shadow:0 1px 0 rgba(255,255,255,0.8);
-	border:1px solid #c7c0c7;
-	background:#f7f6f7;
-	background:-webkit-gradient(linear,left top,left bottom,from(#f7f6f7),to(#dfdbdf));
-	background:-webkit-linear-gradient(#f7f6f7,#dfdbdf);
-	background:-moz-linear-gradient(center top,#f7f6f7 0%,#dfdbdf 100%);
-	background:-moz-gradient(center top,#f7f6f7 0%,#dfdbdf 100%);
+	/* border:1px solid #c7c0c7; */
+	/* background:#f7f6f7; */
+	background-color: #94918C;
+	/* background:-webkit-gradient(linear,left top,left bottom,from(#f7f6f7),to(#dfdbdf)); */
+	/* background:-webkit-linear-gradient(#f7f6f7,#dfdbdf); */
+	/* background:-moz-linear-gradient(center top,#f7f6f7 0%,#dfdbdf 100%);  */
+	/* background:-moz-gradient(center top,#f7f6f7 0%,#dfdbdf 100%); */
 	white-space:nowrap;
 	display:inline-block;
-	-webkit-box-shadow:inset 0 -1px 0 rgba(0,0,0,0.075), inset 0 1px 0 rgba(255,255,255,0.3), 0 1px 2px rgba(0,0,0,0.1);
-	-moz-box-shadow:inset 0 -1px 0 rgba(0,0,0,0.075), inset 0 1px 0 rgba(255,255,255,0.3), 0 1px 2px rgba(0,0,0,0.1);
-	box-shadow:inset 0 -1px 0 rgba(0,0,0,0.075), inset 0 1px 0 rgba(255,255,255,0.3), 0 1px 2px rgba(0,0,0,0.1)}
+	/* -webkit-box-shadow:inset 0 -1px 0 rgba(0,0,0,0.075), inset 0 1px 0 rgba(255,255,255,0.3), 0 1px 2px rgba(0,0,0,0.1); */
+	/* -moz-box-shadow:inset 0 -1px 0 rgba(0,0,0,0.075), inset 0 1px 0 rgba(255,255,255,0.3), 0 1px 2px rgba(0,0,0,0.1); */
+	/* box-shadow:inset 0 -1px 0 rgba(0,0,0,0.075), inset 0 1px 0 rgba(255,255,255,0.3), 0 1px 2px rgba(0,0,0,0.1) */
+	box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.8);
+	border: 0; 
+	padding: 8px 12px 6px 12px; font-size: 14px; font-weight: normal;	
+	border-radius: 0;	
+}
 .woocommerce a.button.loading,.woocommerce button.button.loading,.woocommerce input.button.loading,.woocommerce #respond input#submit.loading,.woocommerce #content input.button.loading,.woocommerce-page a.button.loading,.woocommerce-page button.button.loading,.woocommerce-page input.button.loading,.woocommerce-page #respond input#submit.loading,.woocommerce-page #content input.button.loading{color:#777777;
 	border:1px solid #f7f6f7}
 .woocommerce a.button.loading:before,.woocommerce button.button.loading:before,.woocommerce input.button.loading:before,.woocommerce #respond input#submit.loading:before,.woocommerce #content input.button.loading:before,.woocommerce-page a.button.loading:before,.woocommerce-page button.button.loading:before,.woocommerce-page input.button.loading:before,.woocommerce-page #respond input#submit.loading:before,.woocommerce-page #content input.button.loading:before{content:"";
