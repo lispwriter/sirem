@@ -390,28 +390,32 @@ p.demo_store{position:fixed;
 	text-indent:0;
 	font-family:'Planer-Medium';
 	content:"\e017"}
-.woocommerce a.button:hover,.woocommerce button.button:hover,.woocommerce input.button:hover,.woocommerce #respond input#submit:hover,.woocommerce #content input.button:hover,.woocommerce-page a.button:hover,.woocommerce-page button.button:hover,.woocommerce-page input.button:hover,.woocommerce-page #respond input#submit:hover,.woocommerce-page #content input.button:hover{background:#f7f6f7;
-	background:-webkit-gradient(linear,left top,left bottom,from(#f7f6f7),to(#d3ced3));
-	background:-webkit-linear-gradient(#f7f6f7,#d3ced3);
-	background:-moz-linear-gradient(center top,#f7f6f7 0%,#d3ced3 100%);
-	background:-moz-gradient(center top,#f7f6f7 0%,#d3ced3 100%);
+.woocommerce a.button:hover,.woocommerce button.button:hover,.woocommerce input.button:hover,.woocommerce #respond input#submit:hover,.woocommerce #content input.button:hover,.woocommerce-page a.button:hover,.woocommerce-page button.button:hover,.woocommerce-page input.button:hover,.woocommerce-page #respond input#submit:hover,.woocommerce-page #content input.button:hover{
+	/*background:#f7f6f7;*/
+	/*background:-webkit-gradient(linear,left top,left bottom,from(#f7f6f7),to(#d3ced3));*/
+	/*background:-webkit-linear-gradient(#f7f6f7,#d3ced3);*/
+	/*background:-moz-linear-gradient(center top,#f7f6f7 0%,#d3ced3 100%);*/
+	/*background:-moz-gradient(center top,#f7f6f7 0%,#d3ced3 100%);*/
 	text-decoration:none}
 .woocommerce a.button:active,.woocommerce button.button:active,.woocommerce input.button:active,.woocommerce #respond input#submit:active,.woocommerce #content input.button:active,.woocommerce-page a.button:active,.woocommerce-page button.button:active,.woocommerce-page input.button:active,.woocommerce-page #respond input#submit:active,.woocommerce-page #content input.button:active{top:1px}
-.woocommerce a.button.alt,.woocommerce button.button.alt,.woocommerce input.button.alt,.woocommerce #respond input#submit.alt,.woocommerce #content input.button.alt,.woocommerce-page a.button.alt,.woocommerce-page button.button.alt,.woocommerce-page input.button.alt,.woocommerce-page #respond input#submit.alt,.woocommerce-page #content input.button.alt{background:#ad74a2;
-	background:-webkit-gradient(linear,left top,left bottom,from(#ad74a2),to(#96588a));
-	background:-webkit-linear-gradient(#ad74a2,#96588a);
-	background:-moz-linear-gradient(center top,#ad74a2 0%,#96588a 100%);
-	background:-moz-gradient(center top,#ad74a2 0%,#96588a 100%);
-	border-color:#76456c;
-	color:#ffffff;
-	text-shadow:0 -1px 0 rgba(0,0,0,0.6)}
+.woocommerce a.button.alt,.woocommerce button.button.alt,.woocommerce input.button.alt,.woocommerce #respond input#submit.alt,.woocommerce #content input.button.alt,.woocommerce-page a.button.alt,.woocommerce-page button.button.alt,.woocommerce-page input.button.alt,.woocommerce-page #respond input#submit.alt,.woocommerce-page #content input.button.alt{
+	/*background:#ad74a2;*/
+	/*background:-webkit-gradient(linear,left top,left bottom,from(#ad74a2),to(#96588a));*/
+	/*background:-webkit-linear-gradient(#ad74a2,#96588a);*/
+	/*background:-moz-linear-gradient(center top,#ad74a2 0%,#96588a 100%);*/
+	/*background:-moz-gradient(center top,#ad74a2 0%,#96588a 100%);*/
+	/*border-color:#76456c;*/
+	/*color:#ffffff;*/
+	/*text-shadow:0 -1px 0 rgba(0,0,0,0.6)*/
+}
 .woocommerce a.button.alt:hover,.woocommerce button.button.alt:hover,.woocommerce input.button.alt:hover,.woocommerce #respond input#submit.alt:hover,.woocommerce #content input.button.alt:hover,.woocommerce-page a.button.alt:hover,.woocommerce-page button.button.alt:hover,.woocommerce-page input.button.alt:hover,.woocommerce-page #respond input#submit.alt:hover,.woocommerce-page #content input.button.alt:hover{background:#ad74a2;
-	background:-webkit-gradient(linear,left top,left bottom,from(#ad74a2),to(#864f7b));
-	background:-webkit-linear-gradient(#ad74a2,#864f7b);
-	background:-moz-linear-gradient(center top,#ad74a2 0%,#864f7b 100%);
-	background:-moz-gradient(center top,#ad74a2 0%,#864f7b 100%);
+	/*background:-webkit-gradient(linear,left top,left bottom,from(#ad74a2),to(#864f7b));*/
+	/*background:-webkit-linear-gradient(#ad74a2,#864f7b);*/
+	/*background:-moz-linear-gradient(center top,#ad74a2 0%,#864f7b 100%);*/
+	/*background:-moz-gradient(center top,#ad74a2 0%,#864f7b 100%);*/
 	color:#ffffff;
-	text-shadow:0 -1px 0 rgba(0,0,0,0.6)}
+	/*text-shadow:0 -1px 0 rgba(0,0,0,0.6)*/
+}
 .woocommerce a.button:disabled,.woocommerce a.button.disabled,.woocommerce button.button:disabled,.woocommerce button.button.disabled,.woocommerce input.button:disabled,.woocommerce input.button.disabled,.woocommerce #respond input#submit:disabled,.woocommerce #respond input#submit.disabled,.woocommerce #content input.button:disabled,.woocommerce #content input.button.disabled,.woocommerce-page a.button:disabled,.woocommerce-page a.button.disabled,.woocommerce-page button.button:disabled,.woocommerce-page button.button.disabled,.woocommerce-page input.button:disabled,.woocommerce-page input.button.disabled,.woocommerce-page #respond input#submit:disabled,.woocommerce-page #respond input#submit.disabled,.woocommerce-page #content input.button:disabled,.woocommerce-page #content input.button.disabled{color:#aaaaaa;
 	border:1px solid #dfdbdf;
 	background:#f7f6f7;
