@@ -12,7 +12,7 @@
 .woocommerce img,.woocommerce-page img{height:auto;
 	max-width:100%}
 .woocommerce #content div.product div.images,.woocommerce div.product div.images,.woocommerce-page #content div.product div.images,.woocommerce-page div.product div.images{float:left;
-	width:48%}
+	width:88%}
 .woocommerce #content div.product div.thumbnails,.woocommerce div.product div.thumbnails,.woocommerce-page #content div.product div.thumbnails,.woocommerce-page div.product div.thumbnails{*zoom:1}
 .woocommerce #content div.product div.thumbnails:after,.woocommerce #content div.product div.thumbnails:before,.woocommerce div.product div.thumbnails:after,.woocommerce div.product div.thumbnails:before,.woocommerce-page #content div.product div.thumbnails:after,.woocommerce-page #content div.product div.thumbnails:before,.woocommerce-page div.product div.thumbnails:after,.woocommerce-page div.product div.thumbnails:before{content:" ";
 	display:table}
