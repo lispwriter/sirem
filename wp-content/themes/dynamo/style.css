@@ -332,7 +332,7 @@ ins {text-decoration: none;}
 		/*-----------------------------*/
 		/*- ECOMMERCE BUTTONS ---------*/
 		.products .product .add_to_cart_button,
-		.products .product .product_type_variable{float: right; margin: -3px 20px 0px 0px;}
+		.products .product .product_type_variable{float: right; margin: -3px 0px 0px 0px;}
 		.products .product .added_to_cart{float: right; margin: -3px 10px 0px 0px;}
 
 		.woocommerce_message .button,
