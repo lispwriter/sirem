@@ -346,12 +346,23 @@ ins {text-decoration: none;}
 			.add_to_cart_button,
 			.added_to_cart,
 			.single_add_to_cart_button,
-			.button.product_type_variable{background: #94918C; color: #fff;}
+			.button.product_type_variable{
+				background: #94918C; color: #fff;
+				font-weight: normal;
+				font-size: 11px;
+				margin: 0px; 
+				padding: 7px 10px 3px 10px; 
+				text-transform:uppercase;
+				background-color: #94918C; 
+				color: #FFFFFF;
+				border: 0; 
+				line-height: 1em;
+				box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.8);}
 
 			.add_to_cart_button:hover,
 			.added_to_cart:hover,
 			.single_add_to_cart_button:hover,
-			.button.product_type_variable:hover{background: #333; color: #fff;}
+			.button.product_type_variable:hover{background: #94918C; color: #fff;}
 
 
 			/*- VIEW CART ---------*/
@@ -361,7 +372,7 @@ ins {text-decoration: none;}
 
 			.widget_shopping_cart .button:hover,
 			.woocommerce-message .button:hover,
-			.products .product .added_to_cart:hover{background: #333; color: #fff;}
+			.products .product .added_to_cart:hover{background: #94918C; color: #fff;}
 
 
 			/*- CHECKOUT ---------*/
@@ -371,13 +382,13 @@ ins {text-decoration: none;}
 
 			.widget_shopping_cart:hover
 			.button.checkout:hover,
-			.shop_table .checkout-button:hover{background: #333; color: #fff;}
+			.shop_table .checkout-button:hover{background: #94918C; color: #fff;}
 
 			table .total-cart-buttons td{text-align: right; border: none;}
 			table td .button.checkout-button{float: right; margin-left: 10px;}
 
 			input[name=update_cart]{background: #94918C; color: #fff;}
-			input[name=update_cart]:hover{background: #333; color: #fff;}
+			input[name=update_cart]:hover{background: #94918C; color: #fff;}
 
 
 			/*- QUANTITY ---------*/
