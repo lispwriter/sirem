@@ -284,8 +284,8 @@ p.demo_store{position:fixed;
 	left:auto;
 	margin:-6px -6px 0 0}
 .woocommerce ul.products li.product h3,.woocommerce-page ul.products li.product h3{padding:.5em 0;
-	margin:0;
-	font-size:1em}
+	margin:0 0 10px 0; color:#000000;
+	font-size:16px;}
 .woocommerce ul.products li.product a,.woocommerce-page ul.products li.product a{text-decoration:none}
 .woocommerce ul.products li.product a img,.woocommerce-page ul.products li.product a img{width:100%;
 	height:auto;

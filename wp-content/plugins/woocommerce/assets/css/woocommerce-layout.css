@@ -52,9 +52,9 @@
 .woocommerce ul.products:after,.woocommerce-page ul.products:after{clear:both}
 .woocommerce ul.products li.product,.woocommerce-page ul.products li.product{float:left;
 	margin:0 3.8% 2.992em 0;
-	padding:0;
+	padding:20px;
 	position:relative;
-	width:44.1%;
+	width:40.1%;
 	margin-left:0}
 .woocommerce ul.products li.first,.woocommerce-page ul.products li.first{clear:both}
 .woocommerce ul.products li.last,.woocommerce-page ul.products li.last{margin-right:0}
