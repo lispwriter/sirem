@@ -68,7 +68,7 @@
 .woocommerce .woocommerce-ordering,.woocommerce-page .woocommerce-ordering{
 	/*float:right;*/
 	position:absolute;
-	display:hidden;
+	visibility:hidden;
 	top:0;
 	left:-1000;
 }
