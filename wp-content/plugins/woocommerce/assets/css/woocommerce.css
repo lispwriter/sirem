@@ -843,6 +843,7 @@ p.demo_store{position:fixed;
 	border:0}
 .woocommerce form .form-row .input-checkbox,.woocommerce-page form .form-row .input-checkbox{display:inline;
 	margin:-2px 8px 0 0;
+	float:none;
 	text-align:center;
 	vertical-align:middle}
 .woocommerce form .form-row input.input-text,.woocommerce form .form-row textarea,.woocommerce-page form .form-row input.input-text,.woocommerce-page form .form-row textarea{-webkit-box-sizing:border-box;
