@@ -158,12 +158,13 @@ p.demo_store{position:fixed;
 	margin:0 0 1.618em;
 	overflow:hidden;
 	position:relative}
-.woocommerce div.product .woocommerce-tabs ul.tabs li,.woocommerce #content div.product .woocommerce-tabs ul.tabs li,.woocommerce-page div.product .woocommerce-tabs ul.tabs li,.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li{border:1px solid #dfdbdf;
-	background:#f7f6f7;
-	background:-webkit-gradient(linear,left top,left bottom,from(#f7f6f7),to(#dfdbdf));
-	background:-webkit-linear-gradient(#f7f6f7,#dfdbdf);
-	background:-moz-linear-gradient(center top,#f7f6f7 0%,#dfdbdf 100%);
-	background:-moz-gradient(center top,#f7f6f7 0%,#dfdbdf 100%);
+.woocommerce div.product .woocommerce-tabs ul.tabs li,.woocommerce #content div.product .woocommerce-tabs ul.tabs li,.woocommerce-page div.product .woocommerce-tabs ul.tabs li,.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li{
+	border:1px solid #dfdbdf;
+	background:#f2f2f2;
+	/*background:-webkit-gradient(linear,left top,left bottom,from(#f7f6f7),to(#dfdbdf));*/
+	/*background:-webkit-linear-gradient(#f7f6f7,#dfdbdf);*/
+	/*background:-moz-linear-gradient(center top,#f7f6f7 0%,#dfdbdf 100%);*/
+	/*background:-moz-gradient(center top,#f7f6f7 0%,#dfdbdf 100%);*/
 	display:inline-block;
 	position:relative;
 	z-index:0;

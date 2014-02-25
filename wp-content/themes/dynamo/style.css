@@ -1301,7 +1301,14 @@ li.comments-open:nth-child(2n){margin: 0px 0px 50px; padding: 0px; border: none;
 	.woocommerce_tabs{clear: both;}
 	.tabs{padding: 0 5px; margin-bottom: 20px; border-bottom: 1px solid #ccc; overflow: hidden; position: relative; z-index: 1;}
 	.tabs li{float: left; font-size: 12px;}
-	.tabs li a{display: block; padding: 3px 15px; margin-right: 5px; background: #f2f2f2; border: 1px solid #e0e0e0; border-bottom: none; border-radius: 0; font-weight: 600; color: #777; }
+	.tabs li a{display: block; 
+		padding: 3px 15px; 
+		margin-right: 5px; 
+		background: #f2f2f2; 
+		/*border: 1px solid #e0e0e0; */
+		border-bottom: none; 
+		border-radius: 0; 
+		font-weight: 600; color: #777; }
 	.tabs li.active{margin-bottom: -1px;}
 	.tabs li.active a{background: #fff; color: #333;}
 	.tabs li a:hover{background: #fff;}
