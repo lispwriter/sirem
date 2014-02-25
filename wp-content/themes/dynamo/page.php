@@ -6,13 +6,13 @@
     </div>
     <div id="content" class="clearfix">
         <div id="left-column">
+            <ul class="post-list">
             <?php 
                 $content = get_the_content(); 
                 if(!(preg_match('/woocommerce/i', $content))) {
                     echo $content;
                 }
             ?>
-            <ul class="post-list">
                 
                 <?php if (have_posts()) :
                     while (have_posts()) : the_post(); setup_postdata($post);
