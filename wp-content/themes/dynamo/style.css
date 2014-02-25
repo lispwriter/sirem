@@ -264,7 +264,9 @@ ins {text-decoration: none;}
 	/*--------------------------*/
 	/*- TITLES -----------------*/
 	.title-block{max-width: 1000px; padding: 100px 20px 20px 20px; margin: auto;}
-	.title-block h2{font-family: DINWeb; color: #fff; font-size: 42px; line-height: 42px; font-weight: 200; text-align: left; text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.4);}
+	.title-block h2{font-family: DINWeb; color: #fff; font-size: 42px; line-height: 42px; font-weight: 200; text-align: left; 
+		/*text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.4);*/ 
+		text-transform: lowercase;}
 	.title-block h2 a{color: #fff;}
 	.title-block h2 a:hover{color: #94918C;}
 	.title-block p{padding-top: 23px; margin: 20px 20% 0; background: url(images/layout/slider-top-border.png) top no-repeat; font-size: 16px; color: #eee; text-align: center; text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.4);}
