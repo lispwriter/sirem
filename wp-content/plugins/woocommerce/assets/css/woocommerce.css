@@ -806,7 +806,7 @@ p.demo_store{position:fixed;
 	line-height:1;
 	-webkit-font-smoothing:antialiased;
 	margin-left:7px;
-	content:"\e02e"}
+	/*content:"\e02e"*/}
 .woocommerce .cart-collaterals .cart_totals p,.woocommerce-page .cart-collaterals .cart_totals p{margin:0}
 .woocommerce .cart-collaterals .cart_totals p small,.woocommerce-page .cart-collaterals .cart_totals p small{color:#777777;
 	font-size:0.83em}

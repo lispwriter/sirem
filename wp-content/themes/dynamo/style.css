@@ -1311,7 +1311,7 @@ li.comments-open:nth-child(2n){margin: 0px 0px 50px; padding: 0px; border: none;
 		font-weight: 600; color: #777; }
 	.tabs li.active{margin-bottom: -1px;}
 	.tabs li.active a{background: #fff; color: #333;}
-	.tabs li a:hover{background: #fff;}
+	.tabs li a:hover{}
 	.tabs li a.selected{background: #ffcb28; color: #2d5c70;}
 
 		/*-------------------------*/
