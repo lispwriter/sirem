@@ -364,13 +364,15 @@
 	/* -- changes to woocommerce-smallscreen.css -- */
 	
 	.woocommerce ul.products li.product,.woocommerce-page ul.products li.product{
-		width:44%;
-		float:left;
+		width:85%;
+		float:none;
 		clear:both;
-		margin:0 0 2.992em}
+		margin:0 8% 0 5%;
+	}
 	.woocommerce ul.products li.product:nth-child(2n),.woocommerce-page ul.products li.product:nth-child(2n){
-		float:left;
-		clear:none!important}	
+		float:none;
+		clear:none!important;
+	}	
 
 }
 
