@@ -367,7 +367,7 @@
 		width:85%;
 		float:none;
 		clear:both;
-		margin:0 8% 0 5%;
+		margin:0 8% 20px 5%;
 	}
 	.woocommerce ul.products li.product:nth-child(2n),.woocommerce-page ul.products li.product:nth-child(2n){
 		float:none;
@@ -780,5 +780,12 @@
 		/* border-radius: 0; font-weight: bold; */ 
 		/* text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.1); */
 		box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.8);	
-	}	
+	}
+
+	/* -- changes to woocommerce-smallscreen.css -- */
+
+	.woocommerce ul.products li.product,.woocommerce-page ul.products li.product{
+		width:80%;
+	}
+
 }
