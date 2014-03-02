@@ -7,9 +7,8 @@
 <title>
 <?php
 	global $page, $paged, $post;
-	$tmp = get_wp_title('|', true, 'right');
-	echo $tmp;
-	wp_title( '|', true, 'right' );
+	$tmp = wp_title( '|', false, 'right' );
+	echo "NO:$tmp";
 	bloginfo( 'name' );
 	$site_description = get_bloginfo( 'description', 'display' );
 	if ( $site_description && ( is_home() || is_front_page() ) )
