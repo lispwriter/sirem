@@ -8,7 +8,10 @@
 <?php
 	global $page, $paged, $post;
 	$tmp = wp_title( '|', false, 'right' );
-	echo "NO:$tmp";
+	if(preg_match('/^Products/', $tmp)) {
+		$tmp = str_replace("Products", "shop online", $tmp);
+	}
+	echo $tmp;
 	bloginfo( 'name' );
 	$site_description = get_bloginfo( 'description', 'display' );
 	if ( $site_description && ( is_home() || is_front_page() ) )
