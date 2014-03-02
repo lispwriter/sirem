@@ -2058,6 +2058,8 @@ a.home_info_button {
 
 .woocommerce ul.products li.product .price,.woocommerce-page ul.products li.product .price{
 	color:#000000;
+	font-size:16px;
+	font-weight:600;
 	display:block;
 	font-weight:normal;
 	margin-bottom:.5em
@@ -2273,4 +2275,13 @@ a.home_info_button {
 	left:-1000;
 }
 
+/* fixed padding (or lack of padding) */
+.woocommerce table.shop_attributes td,.woocommerce-page table.shop_attributes td{
+	font-style:italic;
+	padding:8px;
+	border-top:0;
+	border-bottom:1px dotted rgba(0,0,0,0.1);
+	margin:0;
+	line-height:1.5em
+}
 
