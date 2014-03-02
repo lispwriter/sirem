@@ -2137,7 +2137,7 @@ a.home_info_button {
 	background-color: #94918C;
 	background: #94918C;
 	border 0;
-	color: inherit;
+	color: #FFFFFF;
 	background-image:none;
 	background-repeat:no-repeat;
 	text-shadow:none;
@@ -2241,3 +2241,32 @@ a.home_info_button {
 	margin-right:7px;
 	content:"\e013";
 }
+
+
+/* -- STYLE CHANGES FROM woocommerce-layout.css -- */
+
+/* sizing for product shot on single product page */
+.woocommerce #content div.product div.images,.woocommerce div.product div.images,.woocommerce-page #content div.product div.images,.woocommerce-page div.product div.images{
+	float:left;
+	width:88%;
+}
+
+/* layout for shop page */
+.woocommerce ul.products li.product,.woocommerce-page ul.products li.product{
+	float:left;
+	margin:0 3.8% 2.992em 0;
+	padding:20px;
+	position:relative;
+	width:41.5%;
+	margin-left:0;
+}
+
+/* sort box on store page - makes it go away */
+.woocommerce .woocommerce-ordering,.woocommerce-page .woocommerce-ordering{
+	float:none;
+	position:absolute;
+	visibility:hidden;
+	top:0;
+	left:-1000;
+}
+
