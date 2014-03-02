@@ -363,16 +363,6 @@
 	
 	/* -- changes to woocommerce-smallscreen.css -- */
 	
-	.woocommerce ul.products li.product,.woocommerce-page ul.products li.product{
-		width:86%;
-		float:none;
-		clear:both;
-		margin:0 5% 20px 5%;
-	}
-	.woocommerce ul.products li.product:nth-child(2n),.woocommerce-page ul.products li.product:nth-child(2n){
-		margin:0 5% 20px 5%;
-		clear:none!important;
-	}	
 
 }
 
@@ -784,5 +774,15 @@
 
 	/* -- changes to woocommerce-smallscreen.css -- */
 
+	.woocommerce ul.products li.product,.woocommerce-page ul.products li.product{
+		width:86%;
+		float:none;
+		clear:both;
+		margin:0 5% 20px 5%;
+	}
+	.woocommerce ul.products li.product:nth-child(2n),.woocommerce-page ul.products li.product:nth-child(2n){
+		margin:0 5% 20px 5%;
+		clear:none!important;
+	}	
 
 }
